@@ -8,8 +8,7 @@ const postSchema = new Schema({
 		{
 			body: String,
 			username: String,
-			createdAt: String,
-			createdBY: String
+			createdAt: String
 		}
 	],
 	likes: [
